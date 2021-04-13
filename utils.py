@@ -1,5 +1,5 @@
 r"""
-This script includes functions shared by both 'train_hignn.py' and 'train_dnn.py'.
+This script includes functions shared by both `train_hignn.py` and `train_dnn.py`.
 """
 
 # Import packages for mathematics.
