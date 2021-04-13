@@ -7,5 +7,5 @@ Code implementation for the paper ``Scalable Power Control/Beamforming in Hetero
 - `gen_data.py` generates datasets for training/test.
 - `utils.py` includes functions shared by both `train_hignn.py` and `train_dnn.py`.
 - `nn_modules.py` defines the neural network (NN) modules.
-- `train_hignn.py` is the main file carrying out the training-loop of heterogeneous interference graph neural network (HIGNN).
+- `train_hignn.py` is the main file carrying out the training-loop of *heterogeneous interference graph neural networks (HIGNNs)*.
 - `train_dnn.py` is the main file carrying out the training-loop of deep neural networks (DNNs) as comparison.
