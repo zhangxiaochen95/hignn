@@ -232,7 +232,7 @@ def test():
 
 if __name__ == '__main__':
     # Read training/test data and specifications.
-    PATH = './datasets/d2d_12links/'  # PATH should be consistent with the one used in 'gen_data.py'.
+    PATH = './datasets/d2d_12links/'  # PATH should be consistent with the one used in `gen_data.py`.
     print("Path of datasets: {}".format(PATH))
     dir_trainset = PATH + 'train.pickle'
     dir_testset = PATH + 'test.pickle'
